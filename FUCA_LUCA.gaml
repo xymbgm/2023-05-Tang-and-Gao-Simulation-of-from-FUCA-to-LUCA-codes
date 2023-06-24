@@ -16,7 +16,7 @@ global {
 	matrix<float> conjugateP <- 0.0 as_matrix({4 ,4});
 	int numDeadProtocell;
 	int numTotalProtocell;
-	float pAbsorbMoreAANAOutside <- 5 * 10 ^ -3;
+	float pABS <- 5 * 10 ^ -3;
 	bool isPause <- false;
 
 	init {
@@ -491,7 +491,7 @@ global {
 	reflex AbsorbMore when: cycle mod 2 != 0 {
 		loop i over: protocellGroup {
 			ask i {
-				if (flip(pAbsorbMoreAANAOutside)) {
+				if (flip(pABS)) {
 					do AbsorbMoreAANAOutside;
 				}
 			}
