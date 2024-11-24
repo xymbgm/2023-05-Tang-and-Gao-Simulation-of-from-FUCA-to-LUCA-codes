@@ -1,7 +1,9 @@
 1. 机器配置
    
 CPU: Intel(R) Xeon(R) Gold 5318Y 2.10GHZ
+
 内存: 512GB
+
 操作系统：Windows Server 2019
 
 2. 在GAMA中设置内存
@@ -20,7 +22,9 @@ Maximum memory allocated in Mb (requires to restart GAMA)。
 1. Machine Configuration
 
 CPU: Intel(R) Xeon(R) Gold 5318Y 2.10GHZ
+
 Memory: 512GB
+
 OS: Windows Server 2019
 
 2. Setting up Memory in GAMA
