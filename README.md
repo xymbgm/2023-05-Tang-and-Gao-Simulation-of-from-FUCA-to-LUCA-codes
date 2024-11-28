@@ -14,7 +14,7 @@ Maximum memory allocated in Mb (requires to restart GAMA)。
 
 3. 导入FUCA_LUCA Project
 
-解压Project包。在GAMA左侧的User models上点击鼠标右键，选择Import - GAMA Project，选择存放Project的文件夹，导入。 
+在Releases中下载Project包，解压。在GAMA左侧的User models上点击鼠标右键，选择Import - GAMA Project，选择存放Project的文件夹，导入。 
 
 
 ==================================================
@@ -35,4 +35,4 @@ Set it to 409600.
 
 3. Importing the FUCA_LUCA Project
 
-Decompress the Project package. Right-click on User models on the left side of GAMA, select Import - GAMA Project, choose the folder where the Project is stored, and then import it.
+Download Project package in Releases, decompress it. Right-click on User models on the left side of GAMA, select Import - GAMA Project, choose the folder where the Project is stored, and then import it.
