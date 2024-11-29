@@ -20,14 +20,20 @@ Download Project package in Releases, decompress it. Right-click on User models 
 4. Which code file can be used to get the result of a table?
 
 Table 5: FUCA.gaml
+
 Table 6: LUCA(300FUCA).gaml
+
 Table 7: FUCA_LUCA.gaml
+
 Table 8: FUCA_LUCA_control.gaml
 
 5. Which code file can be used to get the figure(s) in appendix?
 
 Figure A-1: FUCA.gaml
+
 Figure A-2: LUCA(3FUCA).gaml
+
 Figure A-3: FUCA_LUCA.gaml
+
 Figure A-4: FUCA_LUCA_control.gaml
 
